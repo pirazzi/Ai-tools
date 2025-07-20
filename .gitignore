@@ -1,0 +1,10 @@
+# Ignora file di ambiente
+.env
+
+# Altri file e cartelle comuni da ignorare
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
